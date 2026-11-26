@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Web de The Sit Jazz"
+git branch -M main
+git remote add origin https://github.com/EL-TEU-USUARI/the-sit-jazz.git
+git push -u origin main
